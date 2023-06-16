@@ -1,0 +1,33 @@
+body{
+    background-color: hotpink;
+    color:white;
+    margin-top: 10%;
+}
+.mas{
+    margin: auto;
+    margin-top: 2%;
+    border:2px solid white;
+    border-radius: 25px;
+    width:550px;
+    padding:50px;
+}
+#t{
+    height:30px;
+    width:fit-content;
+    border:2px solid white;
+     margin: auto;
+     margin-top: 5px;
+     color:black;
+}
+#f{
+    height:30px;
+    width:fit-content;
+    border:2px solid white;
+     margin: auto;
+     margin-top: 5px;
+     color:black;
+}
+#a{
+    margin: auto;
+    
+}
